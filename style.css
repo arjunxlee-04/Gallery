@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 45px;
+}
+hr{
+   margin: 20px; 
+   margin-left: 30%;
+   margin-right: 30%;
+    
+}
+div{
+    background-color: antiquewhite;
+    
+}
+
+
+.box img {
+    padding: 5px;
+    height: 250px;
+    width: 250px;
+    border: solid black 1px;
+    border-width: 3px;
+    margin-top: 30px;
+    
+}
+.body__1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+}
+.body__2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 27px;
+}
